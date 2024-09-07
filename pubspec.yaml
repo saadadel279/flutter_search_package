@@ -2,6 +2,8 @@ name: flutter_search_package
 description: A package to search in a list of items.
 version: 0.0.1
 author: Saad Adel <saad567567aa@gmail.com>
+homepage: https://github.com/saadadel279/flutter_search_package
+
 
 
 environment:
